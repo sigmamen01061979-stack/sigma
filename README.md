@@ -1,2 +1,0 @@
-# sigma
-HyperActive Tech
